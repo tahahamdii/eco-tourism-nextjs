@@ -1,0 +1,501 @@
+City,Product,SalesVolume,Month,Season
+Mahdia,Plant Growth Regulator,672,8,Summer
+Gabès,Fertilizer A,665,2,Winter
+Bizerte,Fertilizer A,877,4,Spring
+Kairouan,Potash Fertilizer,732,2,Winter
+Mahdia,Plant Growth Regulator,509,5,Spring
+Tozeur,Mulch Sheets,405,9,Fall
+Sousse,Soil Enhancer B,373,1,Winter
+Mahdia,Fertilizer A,182,5,Spring
+Bizerte,Potash Fertilizer,937,9,Fall
+Kairouan,Plant Growth Regulator,854,1,Winter
+Gabès,Soil Enhancer B,889,9,Fall
+Bizerte,Plant Growth Regulator,176,8,Summer
+Bizerte,Seed Enhancer,155,4,Spring
+Sousse,Potash Fertilizer,653,12,Winter
+Monastir,Soil Enhancer B,848,11,Fall
+Kairouan,Water Retainer,427,10,Fall
+Sfax,Nitrogen Supplement,954,5,Spring
+Bizerte,Nitrogen Supplement,100,5,Spring
+Monastir,Soil Enhancer B,78,11,Fall
+Sfax,Plant Growth Regulator,511,12,Winter
+Kairouan,Potash Fertilizer,345,6,Summer
+Tunis,Nitrogen Supplement,346,7,Summer
+Tozeur,Potash Fertilizer,775,8,Summer
+Monastir,Nitrogen Supplement,828,8,Summer
+Nabeul,Seed Enhancer,456,11,Fall
+Tunis,Plant Growth Regulator,818,2,Winter
+Tozeur,Seed Enhancer,863,9,Fall
+Sousse,Nitrogen Supplement,662,7,Summer
+Mahdia,Water Retainer,454,4,Spring
+Gabès,Water Retainer,395,4,Spring
+Nabeul,Seed Enhancer,671,11,Fall
+Sousse,Water Retainer,469,8,Summer
+Kairouan,Nitrogen Supplement,231,4,Spring
+Sousse,Soil Enhancer B,874,6,Summer
+Mahdia,Seed Enhancer,50,5,Spring
+Kairouan,Organic Compost,880,3,Spring
+Nabeul,Plant Growth Regulator,999,10,Fall
+Mahdia,Water Retainer,616,11,Fall
+Sfax,Water Retainer,420,2,Winter
+Gabès,Fertilizer A,985,9,Fall
+Nabeul,Mulch Sheets,960,10,Fall
+Sfax,Seed Enhancer,710,9,Fall
+Tozeur,Soil Conditioner,480,1,Winter
+Nabeul,Water Retainer,358,10,Fall
+Tozeur,Plant Growth Regulator,186,3,Spring
+Kairouan,Organic Compost,251,8,Summer
+Sfax,Water Retainer,485,6,Summer
+Gabès,Organic Compost,362,5,Spring
+Mahdia,Nitrogen Supplement,166,5,Spring
+Bizerte,Nitrogen Supplement,715,6,Summer
+Sousse,Mulch Sheets,986,7,Summer
+Tunis,Soil Enhancer B,852,1,Winter
+Gabès,Soil Conditioner,624,9,Fall
+Sfax,Fertilizer A,293,3,Spring
+Bizerte,Mulch Sheets,586,4,Spring
+Gabès,Potash Fertilizer,651,10,Fall
+Sfax,Fertilizer A,124,1,Winter
+Monastir,Seed Enhancer,855,11,Fall
+Monastir,Plant Growth Regulator,435,10,Fall
+Tozeur,Potash Fertilizer,952,3,Spring
+Gabès,Potash Fertilizer,259,2,Winter
+Monastir,Mulch Sheets,524,2,Winter
+Sfax,Soil Enhancer B,467,1,Winter
+Tozeur,Mulch Sheets,396,8,Summer
+Sfax,Seed Enhancer,578,3,Spring
+Tozeur,Water Retainer,689,3,Spring
+Gabès,Water Retainer,988,6,Summer
+Bizerte,Soil Enhancer B,925,8,Summer
+Mahdia,Seed Enhancer,812,9,Fall
+Nabeul,Soil Enhancer B,228,9,Fall
+Bizerte,Organic Compost,231,4,Spring
+Kairouan,Water Retainer,713,5,Spring
+Sfax,Potash Fertilizer,74,2,Winter
+Kairouan,Soil Conditioner,229,11,Fall
+Bizerte,Plant Growth Regulator,759,9,Fall
+Tozeur,Seed Enhancer,550,8,Summer
+Nabeul,Fertilizer A,905,3,Spring
+Nabeul,Soil Enhancer B,210,11,Fall
+Tunis,Plant Growth Regulator,226,12,Winter
+Nabeul,Fertilizer A,334,9,Fall
+Mahdia,Plant Growth Regulator,112,3,Spring
+Nabeul,Soil Conditioner,711,9,Fall
+Bizerte,Fertilizer A,715,2,Winter
+Tunis,Mulch Sheets,205,12,Winter
+Bizerte,Nitrogen Supplement,931,10,Fall
+Bizerte,Mulch Sheets,518,9,Fall
+Sousse,Water Retainer,98,8,Summer
+Tunis,Nitrogen Supplement,898,9,Fall
+Bizerte,Mulch Sheets,133,5,Spring
+Sousse,Nitrogen Supplement,410,11,Fall
+Sousse,Nitrogen Supplement,738,11,Fall
+Tunis,Potash Fertilizer,197,2,Winter
+Kairouan,Soil Enhancer B,679,8,Summer
+Tozeur,Soil Enhancer B,391,12,Winter
+Mahdia,Potash Fertilizer,525,6,Summer
+Tozeur,Plant Growth Regulator,112,8,Summer
+Nabeul,Organic Compost,750,11,Fall
+Mahdia,Plant Growth Regulator,409,5,Spring
+Nabeul,Fertilizer A,610,10,Fall
+Bizerte,Fertilizer A,376,2,Winter
+Sfax,Nitrogen Supplement,818,6,Summer
+Tunis,Mulch Sheets,785,5,Spring
+Mahdia,Mulch Sheets,190,12,Winter
+Mahdia,Soil Enhancer B,264,12,Winter
+Bizerte,Seed Enhancer,484,5,Spring
+Kairouan,Plant Growth Regulator,940,1,Winter
+Sousse,Water Retainer,772,2,Winter
+Bizerte,Soil Conditioner,367,8,Summer
+Monastir,Mulch Sheets,81,3,Spring
+Sousse,Soil Conditioner,719,10,Fall
+Tunis,Nitrogen Supplement,334,3,Spring
+Sousse,Soil Conditioner,354,8,Summer
+Kairouan,Water Retainer,478,8,Summer
+Sousse,Potash Fertilizer,526,2,Winter
+Tunis,Water Retainer,335,8,Summer
+Kairouan,Soil Conditioner,193,11,Fall
+Tozeur,Water Retainer,473,1,Winter
+Mahdia,Organic Compost,68,6,Summer
+Mahdia,Nitrogen Supplement,67,8,Summer
+Nabeul,Plant Growth Regulator,818,3,Spring
+Tozeur,Potash Fertilizer,639,8,Summer
+Tozeur,Mulch Sheets,420,12,Winter
+Sousse,Fertilizer A,224,1,Winter
+Mahdia,Plant Growth Regulator,243,11,Fall
+Tunis,Fertilizer A,551,11,Fall
+Gabès,Nitrogen Supplement,162,9,Fall
+Gabès,Potash Fertilizer,163,11,Fall
+Kairouan,Soil Enhancer B,271,9,Fall
+Mahdia,Mulch Sheets,727,5,Spring
+Mahdia,Organic Compost,996,10,Fall
+Gabès,Soil Enhancer B,880,4,Spring
+Mahdia,Nitrogen Supplement,693,11,Fall
+Sousse,Plant Growth Regulator,946,6,Summer
+Monastir,Organic Compost,313,12,Winter
+Sfax,Water Retainer,974,7,Summer
+Tozeur,Soil Conditioner,104,5,Spring
+Nabeul,Organic Compost,920,11,Fall
+Kairouan,Nitrogen Supplement,692,10,Fall
+Monastir,Seed Enhancer,849,9,Fall
+Gabès,Soil Conditioner,827,3,Spring
+Tozeur,Fertilizer A,507,7,Summer
+Mahdia,Mulch Sheets,927,10,Fall
+Nabeul,Fertilizer A,211,10,Fall
+Mahdia,Organic Compost,429,11,Fall
+Tunis,Fertilizer A,136,5,Spring
+Tunis,Nitrogen Supplement,104,7,Summer
+Nabeul,Water Retainer,525,2,Winter
+Nabeul,Plant Growth Regulator,849,4,Spring
+Gabès,Mulch Sheets,227,2,Winter
+Nabeul,Fertilizer A,440,12,Winter
+Sousse,Fertilizer A,398,7,Summer
+Mahdia,Organic Compost,57,2,Winter
+Monastir,Plant Growth Regulator,882,11,Fall
+Bizerte,Soil Enhancer B,362,1,Winter
+Nabeul,Fertilizer A,808,9,Fall
+Kairouan,Nitrogen Supplement,884,1,Winter
+Tunis,Seed Enhancer,492,8,Summer
+Sousse,Mulch Sheets,816,2,Winter
+Tozeur,Fertilizer A,377,12,Winter
+Bizerte,Nitrogen Supplement,103,8,Summer
+Monastir,Nitrogen Supplement,810,3,Spring
+Bizerte,Mulch Sheets,288,6,Summer
+Nabeul,Soil Enhancer B,278,3,Spring
+Gabès,Nitrogen Supplement,628,7,Summer
+Tunis,Seed Enhancer,100,10,Fall
+Tunis,Nitrogen Supplement,658,9,Fall
+Tozeur,Nitrogen Supplement,653,2,Winter
+Gabès,Nitrogen Supplement,313,12,Winter
+Mahdia,Water Retainer,467,12,Winter
+Sfax,Water Retainer,852,5,Spring
+Sousse,Soil Enhancer B,145,6,Summer
+Tunis,Fertilizer A,137,4,Spring
+Kairouan,Nitrogen Supplement,127,4,Spring
+Tunis,Plant Growth Regulator,337,4,Spring
+Bizerte,Fertilizer A,169,2,Winter
+Tunis,Soil Enhancer B,863,4,Spring
+Tunis,Potash Fertilizer,540,11,Fall
+Sfax,Fertilizer A,961,1,Winter
+Sfax,Fertilizer A,501,12,Winter
+Monastir,Soil Conditioner,549,6,Summer
+Mahdia,Organic Compost,214,1,Winter
+Kairouan,Soil Conditioner,231,10,Fall
+Tunis,Seed Enhancer,518,6,Summer
+Tunis,Water Retainer,959,1,Winter
+Sousse,Water Retainer,784,6,Summer
+Sfax,Organic Compost,872,10,Fall
+Kairouan,Mulch Sheets,993,8,Summer
+Tozeur,Mulch Sheets,56,11,Fall
+Monastir,Soil Enhancer B,379,2,Winter
+Mahdia,Organic Compost,824,2,Winter
+Gabès,Fertilizer A,722,12,Winter
+Mahdia,Mulch Sheets,200,4,Spring
+Bizerte,Nitrogen Supplement,134,11,Fall
+Tunis,Plant Growth Regulator,196,3,Spring
+Monastir,Fertilizer A,673,4,Spring
+Bizerte,Seed Enhancer,430,12,Winter
+Kairouan,Nitrogen Supplement,964,7,Summer
+Gabès,Nitrogen Supplement,597,11,Fall
+Sfax,Organic Compost,334,1,Winter
+Monastir,Soil Enhancer B,749,6,Summer
+Monastir,Seed Enhancer,131,3,Spring
+Tunis,Mulch Sheets,563,11,Fall
+Nabeul,Organic Compost,946,10,Fall
+Monastir,Mulch Sheets,864,7,Summer
+Sousse,Organic Compost,758,10,Fall
+Gabès,Organic Compost,965,2,Winter
+Gabès,Organic Compost,572,2,Winter
+Sousse,Soil Enhancer B,795,4,Spring
+Tozeur,Organic Compost,435,1,Winter
+Sousse,Potash Fertilizer,756,3,Spring
+Sousse,Plant Growth Regulator,520,9,Fall
+Gabès,Mulch Sheets,168,7,Summer
+Mahdia,Fertilizer A,445,7,Summer
+Gabès,Soil Conditioner,581,11,Fall
+Nabeul,Seed Enhancer,310,4,Spring
+Tunis,Water Retainer,854,2,Winter
+Bizerte,Soil Enhancer B,983,4,Spring
+Mahdia,Fertilizer A,305,6,Summer
+Sfax,Nitrogen Supplement,783,11,Fall
+Bizerte,Potash Fertilizer,954,11,Fall
+Tunis,Water Retainer,275,3,Spring
+Nabeul,Soil Conditioner,102,1,Winter
+Nabeul,Fertilizer A,989,12,Winter
+Sfax,Water Retainer,916,8,Summer
+Mahdia,Fertilizer A,549,12,Winter
+Tozeur,Potash Fertilizer,555,5,Spring
+Sousse,Soil Conditioner,903,5,Spring
+Mahdia,Nitrogen Supplement,413,11,Fall
+Tozeur,Organic Compost,329,4,Spring
+Nabeul,Mulch Sheets,642,6,Summer
+Gabès,Nitrogen Supplement,763,3,Spring
+Tunis,Organic Compost,207,9,Fall
+Sfax,Soil Enhancer B,681,5,Spring
+Tunis,Plant Growth Regulator,108,3,Spring
+Kairouan,Seed Enhancer,776,11,Fall
+Kairouan,Seed Enhancer,177,1,Winter
+Mahdia,Mulch Sheets,785,10,Fall
+Nabeul,Soil Conditioner,770,12,Winter
+Nabeul,Potash Fertilizer,931,6,Summer
+Sousse,Soil Conditioner,164,2,Winter
+Sousse,Potash Fertilizer,258,3,Spring
+Sousse,Soil Conditioner,575,1,Winter
+Gabès,Plant Growth Regulator,570,9,Fall
+Bizerte,Soil Enhancer B,601,8,Summer
+Monastir,Soil Enhancer B,286,12,Winter
+Bizerte,Organic Compost,330,2,Winter
+Tunis,Water Retainer,408,12,Winter
+Bizerte,Soil Enhancer B,250,11,Fall
+Gabès,Soil Enhancer B,807,8,Summer
+Tunis,Nitrogen Supplement,327,12,Winter
+Bizerte,Nitrogen Supplement,284,9,Fall
+Gabès,Organic Compost,543,1,Winter
+Monastir,Water Retainer,53,5,Spring
+Bizerte,Mulch Sheets,715,8,Summer
+Gabès,Nitrogen Supplement,491,11,Fall
+Sousse,Mulch Sheets,78,2,Winter
+Nabeul,Fertilizer A,158,4,Spring
+Sousse,Nitrogen Supplement,659,7,Summer
+Nabeul,Plant Growth Regulator,776,3,Spring
+Sfax,Water Retainer,854,12,Winter
+Sfax,Organic Compost,124,5,Spring
+Sfax,Fertilizer A,887,8,Summer
+Monastir,Water Retainer,195,12,Winter
+Sousse,Plant Growth Regulator,177,10,Fall
+Nabeul,Water Retainer,902,3,Spring
+Gabès,Plant Growth Regulator,91,4,Spring
+Tunis,Plant Growth Regulator,405,9,Fall
+Gabès,Mulch Sheets,90,7,Summer
+Tunis,Soil Conditioner,983,1,Winter
+Kairouan,Fertilizer A,83,12,Winter
+Gabès,Water Retainer,66,4,Spring
+Bizerte,Potash Fertilizer,726,4,Spring
+Bizerte,Fertilizer A,202,9,Fall
+Mahdia,Soil Conditioner,427,6,Summer
+Sousse,Fertilizer A,637,9,Fall
+Tunis,Soil Enhancer B,648,12,Winter
+Tunis,Potash Fertilizer,678,6,Summer
+Sousse,Soil Conditioner,923,6,Summer
+Monastir,Mulch Sheets,391,5,Spring
+Mahdia,Water Retainer,76,5,Spring
+Monastir,Seed Enhancer,874,2,Winter
+Monastir,Soil Conditioner,336,8,Summer
+Monastir,Organic Compost,695,8,Summer
+Sousse,Water Retainer,780,11,Fall
+Monastir,Soil Conditioner,217,1,Winter
+Bizerte,Soil Enhancer B,659,8,Summer
+Sfax,Seed Enhancer,317,5,Spring
+Kairouan,Soil Enhancer B,798,2,Winter
+Tunis,Seed Enhancer,870,2,Winter
+Tunis,Organic Compost,504,6,Summer
+Kairouan,Water Retainer,955,11,Fall
+Sousse,Mulch Sheets,734,9,Fall
+Gabès,Soil Enhancer B,450,1,Winter
+Sousse,Soil Enhancer B,971,12,Winter
+Tunis,Plant Growth Regulator,525,6,Summer
+Tunis,Seed Enhancer,751,9,Fall
+Kairouan,Nitrogen Supplement,683,8,Summer
+Monastir,Water Retainer,607,11,Fall
+Sousse,Seed Enhancer,625,6,Summer
+Nabeul,Plant Growth Regulator,179,3,Spring
+Kairouan,Fertilizer A,871,8,Summer
+Bizerte,Seed Enhancer,412,9,Fall
+Tunis,Mulch Sheets,754,1,Winter
+Kairouan,Water Retainer,868,12,Winter
+Sousse,Plant Growth Regulator,742,9,Fall
+Tunis,Fertilizer A,341,6,Summer
+Gabès,Potash Fertilizer,420,6,Summer
+Kairouan,Plant Growth Regulator,843,12,Winter
+Mahdia,Potash Fertilizer,78,4,Spring
+Tunis,Water Retainer,198,1,Winter
+Sousse,Soil Enhancer B,828,10,Fall
+Sfax,Plant Growth Regulator,345,8,Summer
+Nabeul,Organic Compost,60,2,Winter
+Tozeur,Potash Fertilizer,561,12,Winter
+Monastir,Mulch Sheets,725,1,Winter
+Tozeur,Organic Compost,162,2,Winter
+Sousse,Soil Conditioner,236,1,Winter
+Bizerte,Soil Conditioner,856,1,Winter
+Bizerte,Fertilizer A,793,9,Fall
+Sfax,Soil Enhancer B,276,1,Winter
+Monastir,Water Retainer,359,4,Spring
+Mahdia,Plant Growth Regulator,147,10,Fall
+Sfax,Nitrogen Supplement,104,6,Summer
+Tozeur,Mulch Sheets,672,7,Summer
+Sfax,Potash Fertilizer,713,2,Winter
+Tozeur,Water Retainer,807,6,Summer
+Tunis,Organic Compost,455,7,Summer
+Bizerte,Soil Conditioner,118,10,Fall
+Tunis,Mulch Sheets,361,10,Fall
+Nabeul,Nitrogen Supplement,338,2,Winter
+Monastir,Plant Growth Regulator,811,2,Winter
+Mahdia,Fertilizer A,597,10,Fall
+Tozeur,Nitrogen Supplement,800,7,Summer
+Mahdia,Mulch Sheets,197,12,Winter
+Tozeur,Nitrogen Supplement,516,1,Winter
+Sousse,Mulch Sheets,788,8,Summer
+Sfax,Mulch Sheets,293,11,Fall
+Nabeul,Seed Enhancer,540,3,Spring
+Bizerte,Potash Fertilizer,898,11,Fall
+Tozeur,Soil Conditioner,556,6,Summer
+Mahdia,Seed Enhancer,414,9,Fall
+Nabeul,Plant Growth Regulator,531,6,Summer
+Gabès,Seed Enhancer,250,9,Fall
+Gabès,Soil Enhancer B,203,7,Summer
+Tunis,Soil Enhancer B,499,9,Fall
+Bizerte,Soil Conditioner,550,2,Winter
+Sousse,Nitrogen Supplement,122,12,Winter
+Mahdia,Potash Fertilizer,762,8,Summer
+Sfax,Soil Conditioner,345,8,Summer
+Sfax,Mulch Sheets,66,2,Winter
+Mahdia,Organic Compost,690,12,Winter
+Monastir,Potash Fertilizer,266,4,Spring
+Sousse,Potash Fertilizer,110,11,Fall
+Nabeul,Mulch Sheets,988,7,Summer
+Tozeur,Mulch Sheets,665,11,Fall
+Monastir,Fertilizer A,91,4,Spring
+Tozeur,Soil Conditioner,74,4,Spring
+Tozeur,Mulch Sheets,88,6,Summer
+Monastir,Soil Enhancer B,852,10,Fall
+Tunis,Plant Growth Regulator,180,6,Summer
+Gabès,Organic Compost,547,10,Fall
+Tozeur,Soil Conditioner,278,3,Spring
+Monastir,Water Retainer,157,9,Fall
+Monastir,Soil Enhancer B,221,12,Winter
+Kairouan,Nitrogen Supplement,484,10,Fall
+Tunis,Mulch Sheets,527,11,Fall
+Bizerte,Water Retainer,151,2,Winter
+Kairouan,Mulch Sheets,915,6,Summer
+Kairouan,Potash Fertilizer,573,12,Winter
+Mahdia,Soil Enhancer B,324,7,Summer
+Gabès,Potash Fertilizer,662,12,Winter
+Monastir,Fertilizer A,93,9,Fall
+Gabès,Potash Fertilizer,866,3,Spring
+Sousse,Fertilizer A,66,10,Fall
+Mahdia,Fertilizer A,379,3,Spring
+Bizerte,Water Retainer,618,7,Summer
+Gabès,Mulch Sheets,872,4,Spring
+Sfax,Nitrogen Supplement,546,8,Summer
+Tozeur,Potash Fertilizer,864,7,Summer
+Sousse,Soil Enhancer B,61,5,Spring
+Tunis,Fertilizer A,367,7,Summer
+Bizerte,Mulch Sheets,641,3,Spring
+Sousse,Organic Compost,265,12,Winter
+Tozeur,Soil Conditioner,388,2,Winter
+Mahdia,Water Retainer,825,6,Summer
+Tozeur,Nitrogen Supplement,710,2,Winter
+Kairouan,Seed Enhancer,130,3,Spring
+Tozeur,Water Retainer,776,6,Summer
+Kairouan,Organic Compost,534,5,Spring
+Mahdia,Soil Conditioner,423,8,Summer
+Nabeul,Organic Compost,759,9,Fall
+Kairouan,Potash Fertilizer,249,11,Fall
+Tunis,Fertilizer A,586,3,Spring
+Tozeur,Nitrogen Supplement,515,12,Winter
+Tozeur,Plant Growth Regulator,138,10,Fall
+Tunis,Fertilizer A,317,3,Spring
+Sfax,Plant Growth Regulator,704,3,Spring
+Monastir,Soil Conditioner,620,6,Summer
+Nabeul,Mulch Sheets,971,1,Winter
+Bizerte,Seed Enhancer,538,7,Summer
+Kairouan,Soil Enhancer B,926,12,Winter
+Tunis,Fertilizer A,587,1,Winter
+Mahdia,Nitrogen Supplement,96,5,Spring
+Kairouan,Organic Compost,337,10,Fall
+Monastir,Nitrogen Supplement,827,8,Summer
+Mahdia,Soil Conditioner,65,4,Spring
+Sousse,Plant Growth Regulator,760,5,Spring
+Tozeur,Organic Compost,450,4,Spring
+Sousse,Soil Enhancer B,968,12,Winter
+Kairouan,Soil Enhancer B,843,12,Winter
+Monastir,Fertilizer A,135,4,Spring
+Nabeul,Soil Conditioner,299,12,Winter
+Kairouan,Mulch Sheets,440,8,Summer
+Tunis,Soil Conditioner,831,2,Winter
+Gabès,Plant Growth Regulator,384,1,Winter
+Kairouan,Nitrogen Supplement,678,3,Spring
+Tozeur,Soil Enhancer B,568,9,Fall
+Tozeur,Nitrogen Supplement,186,4,Spring
+Kairouan,Nitrogen Supplement,932,10,Fall
+Mahdia,Nitrogen Supplement,737,5,Spring
+Gabès,Soil Enhancer B,889,2,Winter
+Tunis,Water Retainer,547,4,Spring
+Kairouan,Potash Fertilizer,876,2,Winter
+Mahdia,Plant Growth Regulator,776,2,Winter
+Tozeur,Water Retainer,526,4,Spring
+Tozeur,Plant Growth Regulator,643,6,Summer
+Monastir,Organic Compost,272,7,Summer
+Kairouan,Soil Conditioner,421,10,Fall
+Gabès,Soil Conditioner,984,3,Spring
+Sfax,Seed Enhancer,451,3,Spring
+Gabès,Soil Conditioner,492,10,Fall
+Tozeur,Soil Enhancer B,539,6,Summer
+Tozeur,Mulch Sheets,664,12,Winter
+Sousse,Fertilizer A,322,3,Spring
+Tozeur,Seed Enhancer,575,2,Winter
+Tunis,Fertilizer A,208,8,Summer
+Bizerte,Plant Growth Regulator,201,5,Spring
+Kairouan,Fertilizer A,669,1,Winter
+Gabès,Fertilizer A,237,3,Spring
+Bizerte,Seed Enhancer,862,10,Fall
+Mahdia,Organic Compost,147,8,Summer
+Sfax,Nitrogen Supplement,180,4,Spring
+Tunis,Soil Conditioner,854,7,Summer
+Gabès,Soil Conditioner,220,10,Fall
+Bizerte,Soil Enhancer B,985,12,Winter
+Sfax,Seed Enhancer,232,2,Winter
+Sousse,Soil Enhancer B,413,7,Summer
+Tunis,Mulch Sheets,88,5,Spring
+Tunis,Mulch Sheets,576,5,Spring
+Sousse,Soil Enhancer B,937,6,Summer
+Kairouan,Seed Enhancer,546,9,Fall
+Sousse,Soil Enhancer B,565,6,Summer
+Tunis,Soil Conditioner,398,12,Winter
+Tunis,Water Retainer,970,8,Summer
+Bizerte,Potash Fertilizer,446,7,Summer
+Tozeur,Fertilizer A,771,9,Fall
+Sfax,Potash Fertilizer,210,4,Spring
+Sousse,Seed Enhancer,65,2,Winter
+Sfax,Potash Fertilizer,542,7,Summer
+Sousse,Mulch Sheets,475,6,Summer
+Mahdia,Plant Growth Regulator,157,1,Winter
+Tunis,Fertilizer A,943,11,Fall
+Tozeur,Nitrogen Supplement,499,9,Fall
+Bizerte,Seed Enhancer,360,9,Fall
+Tozeur,Fertilizer A,788,12,Winter
+Tozeur,Potash Fertilizer,219,2,Winter
+Tozeur,Mulch Sheets,595,3,Spring
+Sfax,Organic Compost,463,5,Spring
+Sousse,Water Retainer,300,5,Spring
+Nabeul,Nitrogen Supplement,808,1,Winter
+Mahdia,Water Retainer,830,8,Summer
+Gabès,Fertilizer A,190,12,Winter
+Tozeur,Mulch Sheets,323,8,Summer
+Kairouan,Mulch Sheets,465,4,Spring
+Sfax,Potash Fertilizer,657,7,Summer
+Bizerte,Soil Conditioner,788,11,Fall
+Gabès,Potash Fertilizer,940,10,Fall
+Nabeul,Soil Conditioner,88,3,Spring
+Kairouan,Soil Conditioner,863,6,Summer
+Nabeul,Nitrogen Supplement,78,10,Fall
+Gabès,Potash Fertilizer,526,10,Fall
+Tozeur,Organic Compost,367,12,Winter
+Kairouan,Soil Enhancer B,294,9,Fall
+Nabeul,Soil Enhancer B,797,1,Winter
+Bizerte,Potash Fertilizer,746,5,Spring
+Sousse,Potash Fertilizer,321,4,Spring
+Tunis,Water Retainer,489,8,Summer
+Sousse,Nitrogen Supplement,797,11,Fall
+Gabès,Potash Fertilizer,288,12,Winter
+Sfax,Water Retainer,426,1,Winter
+Tunis,Soil Conditioner,315,9,Fall
+Mahdia,Mulch Sheets,975,6,Summer
+Bizerte,Mulch Sheets,970,4,Spring
+Mahdia,Soil Conditioner,408,12,Winter
+Kairouan,Seed Enhancer,389,9,Fall
+Tunis,Water Retainer,438,11,Fall
+Mahdia,Water Retainer,626,5,Spring
+Mahdia,Soil Conditioner,738,5,Spring
+Nabeul,Organic Compost,52,12,Winter
+Sousse,Plant Growth Regulator,478,5,Spring

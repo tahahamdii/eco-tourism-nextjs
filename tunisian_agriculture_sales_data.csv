@@ -1,0 +1,501 @@
+Location,Product,SalesVolume,Season,CropType,SoilType,WeatherCondition
+Mahdia,Mulching Film,672,Summer,Citrus,Loamy,Cold
+Gabès,Urea Fertilizer,665,Winter,Wheat,Sandy-Loamy,Sunny
+Bizerte,Urea Fertilizer,732,Fall,Wheat,Peaty,Cold
+Kairouan,NPK Fertilizer,509,Winter,Tomatoes,Arid,Mild
+Mahdia,Mulching Film,405,Winter,Olive Trees,Peaty,Sunny
+Tozeur,Ammonium Nitrate,373,Winter,Strawberries,Sandy,Cold
+Sousse,Drip Irrigation Kit,182,Spring,Vegetables,Sandy-Loamy,Hot
+Mahdia,Urea Fertilizer,176,Fall,Olive Trees,Arid,Hot
+Bizerte,NPK Fertilizer,155,Fall,Wheat,Peaty,Hot
+Kairouan,Mulching Film,653,Winter,Wheat,Loamy,Windy
+Gabès,Drip Irrigation Kit,427,Spring,Strawberries,Sandy,Rainy
+Bizerte,Mulching Film,100,Spring,Citrus,Sandy-Loamy,Hot
+Bizerte,Herbicide,78,Fall,Olive Trees,Sandy,Sunny
+Sousse,NPK Fertilizer,511,Spring,Olive Trees,Loamy,Hot
+Monastir,Drip Irrigation Kit,345,Spring,Wheat,Sandy-Loamy,Windy
+Kairouan,Date Palm Fertilizer,346,Spring,Vegetables,Sandy,Mild
+Sfax,Organic Compost,775,Summer,Tomatoes,Clay,Sunny
+Bizerte,Organic Compost,456,Winter,Dates,Loamy,Windy
+Monastir,Drip Irrigation Kit,662,Fall,Tomatoes,Loamy,Mild
+Sfax,Mulching Film,454,Fall,Olive Trees,Loamy,Very Hot
+Kairouan,NPK Fertilizer,395,Summer,Tomatoes,Clay,Very Hot
+Tunis,Organic Compost,671,Winter,Wheat,Clay,Sunny
+Tozeur,NPK Fertilizer,469,Fall,Wheat,Peaty,Cold
+Monastir,Organic Compost,231,Spring,Strawberries,Arid,Rainy
+Nabeul,Herbicide,50,Fall,Olive Trees,Sandy,Rainy
+Tunis,Mulching Film,616,Spring,Strawberries,Peaty,Windy
+Tozeur,Herbicide,420,Summer,Olive Trees,Sandy,Mild
+Sousse,Organic Compost,710,Spring,Dates,Arid,Rainy
+Mahdia,Date Palm Fertilizer,480,Fall,Dates,Clay,Mild
+Gabès,Date Palm Fertilizer,358,Fall,Citrus,Arid,Mild
+Nabeul,Herbicide,186,Fall,Olive Trees,Clay,Windy
+Sousse,Date Palm Fertilizer,251,Summer,Vegetables,Arid,Windy
+Kairouan,Organic Compost,485,Summer,Tomatoes,Peaty,Windy
+Sousse,Drip Irrigation Kit,362,Winter,Olive Trees,Sandy-Loamy,Rainy
+Mahdia,Herbicide,166,Fall,Corn,Peaty,Very Hot
+Kairouan,Hybrid Corn Seed,715,Spring,Citrus,Sandy,Windy
+Nabeul,Mulching Film,624,Summer,Corn,Peaty,Rainy
+Mahdia,Date Palm Fertilizer,293,Fall,Wheat,Loamy,Windy
+Sfax,Date Palm Fertilizer,586,Fall,Dates,Sandy,Hot
+Gabès,Urea Fertilizer,651,Summer,Tomatoes,Arid,Mild
+Nabeul,Ammonium Nitrate,124,Winter,Olive Trees,Sandy,Windy
+Sfax,Herbicide,435,Summer,Corn,Sandy-Loamy,Sunny
+Tozeur,Water-Soluble Fertilizer,259,Summer,Tomatoes,Clay,Mild
+Nabeul,Date Palm Fertilizer,524,Spring,Wheat,Arid,Mild
+Tozeur,Mulching Film,467,Spring,Dates,Sandy,Windy
+Kairouan,Hybrid Corn Seed,396,Winter,Vegetables,Arid,Very Hot
+Sfax,Date Palm Fertilizer,578,Fall,Citrus,Arid,Cold
+Gabès,Hybrid Corn Seed,689,Summer,Tomatoes,Arid,Very Hot
+Mahdia,Organic Compost,228,Winter,Tomatoes,Clay,Windy
+Bizerte,Organic Compost,231,Spring,Vegetables,Peaty,Mild
+Sousse,Ammonium Nitrate,713,Summer,Tomatoes,Arid,Sunny
+Tunis,Drip Irrigation Kit,74,Fall,Wheat,Loamy,Mild
+Gabès,Water-Soluble Fertilizer,229,Spring,Wheat,Sandy-Loamy,Very Hot
+Sfax,Urea Fertilizer,759,Spring,Vegetables,Clay,Sunny
+Bizerte,Ammonium Nitrate,550,Spring,Citrus,Sandy,Rainy
+Gabès,NPK Fertilizer,210,Winter,Olive Trees,Clay,Hot
+Sfax,Urea Fertilizer,226,Fall,Corn,Sandy,Mild
+Monastir,Herbicide,334,Summer,Olive Trees,Clay,Windy
+Monastir,Mulching Film,112,Winter,Tomatoes,Sandy,Rainy
+Tozeur,NPK Fertilizer,711,Winter,Corn,Arid,Hot
+Gabès,NPK Fertilizer,715,Winter,Strawberries,Peaty,Windy
+Monastir,Ammonium Nitrate,205,Spring,Vegetables,Sandy,Cold
+Sfax,Drip Irrigation Kit,518,Fall,Vegetables,Sandy,Windy
+Tozeur,Ammonium Nitrate,98,Winter,Citrus,Loamy,Sunny
+Sfax,Herbicide,133,Summer,Corn,Sandy,Sunny
+Tozeur,Date Palm Fertilizer,410,Fall,Wheat,Loamy,Cold
+Gabès,Date Palm Fertilizer,738,Summer,Corn,Sandy-Loamy,Rainy
+Bizerte,Drip Irrigation Kit,197,Fall,Tomatoes,Arid,Hot
+Mahdia,Herbicide,679,Summer,Wheat,Loamy,Windy
+Nabeul,Drip Irrigation Kit,391,Spring,Dates,Peaty,Sunny
+Bizerte,Hybrid Corn Seed,525,Winter,Dates,Arid,Rainy
+Kairouan,Date Palm Fertilizer,112,Summer,Strawberries,Loamy,Cold
+Sfax,NPK Fertilizer,750,Fall,Dates,Arid,Very Hot
+Kairouan,Water-Soluble Fertilizer,409,Winter,Vegetables,Arid,Mild
+Bizerte,Mulching Film,610,Winter,Corn,Arid,Very Hot
+Tozeur,Herbicide,376,Fall,Dates,Sandy-Loamy,Very Hot
+Nabeul,Urea Fertilizer,785,Summer,Olive Trees,Peaty,Sunny
+Nabeul,Drip Irrigation Kit,190,Spring,Citrus,Clay,Cold
+Tunis,Mulching Film,264,Spring,Olive Trees,Clay,Windy
+Nabeul,Urea Fertilizer,484,Summer,Dates,Loamy,Very Hot
+Mahdia,Mulching Film,772,Winter,Strawberries,Arid,Very Hot
+Nabeul,Water-Soluble Fertilizer,367,Winter,Citrus,Loamy,Hot
+Bizerte,Urea Fertilizer,81,Winter,Tomatoes,Sandy-Loamy,Sunny
+Tunis,Ammonium Nitrate,719,Winter,Olive Trees,Sandy-Loamy,Sunny
+Bizerte,Organic Compost,334,Summer,Strawberries,Sandy,Windy
+Bizerte,Ammonium Nitrate,354,Winter,Corn,Sandy-Loamy,Mild
+Sousse,Date Palm Fertilizer,478,Fall,Corn,Sandy,Rainy
+Tunis,Organic Compost,526,Winter,Olive Trees,Peaty,Hot
+Bizerte,Ammonium Nitrate,335,Spring,Dates,Loamy,Sunny
+Sousse,Organic Compost,193,Winter,Strawberries,Peaty,Hot
+Sousse,Organic Compost,473,Summer,Corn,Sandy-Loamy,Sunny
+Tunis,NPK Fertilizer,68,Spring,Tomatoes,Peaty,Hot
+Kairouan,Drip Irrigation Kit,67,Summer,Wheat,Peaty,Cold
+Tozeur,Drip Irrigation Kit,639,Summer,Dates,Peaty,Very Hot
+Mahdia,NPK Fertilizer,420,Spring,Strawberries,Sandy-Loamy,Sunny
+Tozeur,Mulching Film,224,Summer,Tomatoes,Arid,Hot
+Nabeul,Hybrid Corn Seed,243,Summer,Strawberries,Peaty,Rainy
+Mahdia,Mulching Film,551,Winter,Citrus,Sandy,Cold
+Nabeul,Urea Fertilizer,162,Fall,Tomatoes,Sandy-Loamy,Cold
+Bizerte,Urea Fertilizer,163,Summer,Dates,Peaty,Rainy
+Sfax,Organic Compost,271,Summer,Citrus,Arid,Hot
+Tunis,Ammonium Nitrate,727,Summer,Dates,Sandy-Loamy,Windy
+Mahdia,Ammonium Nitrate,693,Winter,Corn,Clay,Rainy
+Mahdia,Drip Irrigation Kit,313,Fall,Wheat,Arid,Hot
+Bizerte,Herbicide,104,Spring,Dates,Sandy,Rainy
+Kairouan,Mulching Film,692,Winter,Dates,Peaty,Rainy
+Sousse,Date Palm Fertilizer,507,Winter,Corn,Clay,Sunny
+Bizerte,Water-Soluble Fertilizer,211,Fall,Vegetables,Clay,Hot
+Monastir,Ammonium Nitrate,429,Fall,Corn,Sandy-Loamy,Windy
+Sousse,Water-Soluble Fertilizer,136,Winter,Citrus,Clay,Very Hot
+Tunis,Organic Compost,104,Spring,Corn,Sandy,Sunny
+Sousse,Water-Soluble Fertilizer,525,Winter,Corn,Sandy,Rainy
+Kairouan,Date Palm Fertilizer,227,Fall,Wheat,Loamy,Very Hot
+Sousse,NPK Fertilizer,440,Spring,Corn,Sandy,Mild
+Tunis,Date Palm Fertilizer,398,Fall,Strawberries,Arid,Very Hot
+Kairouan,Water-Soluble Fertilizer,57,Spring,Dates,Clay,Rainy
+Tozeur,Date Palm Fertilizer,362,Summer,Strawberries,Sandy,Rainy
+Mahdia,Hybrid Corn Seed,492,Fall,Wheat,Sandy-Loamy,Hot
+Mahdia,Organic Compost,377,Fall,Olive Trees,Loamy,Hot
+Nabeul,Mulching Film,103,Winter,Vegetables,Clay,Sunny
+Tozeur,NPK Fertilizer,288,Fall,Strawberries,Loamy,Windy
+Tozeur,Ammonium Nitrate,278,Fall,Wheat,Clay,Sunny
+Sousse,Urea Fertilizer,628,Summer,Citrus,Sandy-Loamy,Cold
+Mahdia,Mulching Film,100,Fall,Olive Trees,Loamy,Rainy
+Tunis,Urea Fertilizer,658,Summer,Wheat,Peaty,Very Hot
+Gabès,Organic Compost,653,Summer,Wheat,Arid,Mild
+Gabès,NPK Fertilizer,313,Summer,Vegetables,Arid,Rainy
+Kairouan,Drip Irrigation Kit,467,Summer,Dates,Clay,Rainy
+Mahdia,Ammonium Nitrate,145,Spring,Strawberries,Peaty,Sunny
+Mahdia,Hybrid Corn Seed,137,Winter,Citrus,Loamy,Mild
+Gabès,Drip Irrigation Kit,127,Spring,Tomatoes,Peaty,Mild
+Mahdia,Organic Compost,337,Fall,Strawberries,Peaty,Mild
+Sousse,Mulching Film,169,Spring,Tomatoes,Loamy,Sunny
+Monastir,Hybrid Corn Seed,540,Spring,Wheat,Sandy-Loamy,Rainy
+Sfax,Date Palm Fertilizer,501,Fall,Corn,Peaty,Sunny
+Tozeur,Water-Soluble Fertilizer,549,Fall,Citrus,Peaty,Hot
+Nabeul,Hybrid Corn Seed,214,Fall,Olive Trees,Sandy-Loamy,Hot
+Kairouan,Organic Compost,231,Spring,Corn,Peaty,Sunny
+Monastir,Herbicide,518,Spring,Corn,Peaty,Mild
+Gabès,Water-Soluble Fertilizer,784,Fall,Strawberries,Peaty,Rainy
+Tozeur,Urea Fertilizer,56,Winter,Citrus,Arid,Sunny
+Mahdia,Ammonium Nitrate,379,Winter,Dates,Sandy,Sunny
+Nabeul,Urea Fertilizer,722,Summer,Wheat,Sandy-Loamy,Sunny
+Mahdia,Hybrid Corn Seed,200,Fall,Wheat,Peaty,Cold
+Tunis,Urea Fertilizer,134,Summer,Wheat,Arid,Hot
+Tunis,Organic Compost,196,Winter,Wheat,Sandy-Loamy,Very Hot
+Nabeul,Date Palm Fertilizer,673,Summer,Strawberries,Clay,Mild
+Nabeul,Mulching Film,430,Fall,Tomatoes,Clay,Windy
+Gabès,Ammonium Nitrate,597,Fall,Wheat,Peaty,Very Hot
+Nabeul,Urea Fertilizer,334,Fall,Tomatoes,Arid,Mild
+Sousse,Urea Fertilizer,749,Spring,Tomatoes,Arid,Windy
+Mahdia,Hybrid Corn Seed,131,Summer,Dates,Sandy-Loamy,Cold
+Monastir,Mulching Film,563,Winter,Wheat,Sandy-Loamy,Sunny
+Bizerte,Drip Irrigation Kit,758,Winter,Vegetables,Arid,Cold
+Nabeul,Urea Fertilizer,572,Winter,Olive Trees,Sandy-Loamy,Cold
+Kairouan,Organic Compost,795,Spring,Corn,Arid,Very Hot
+Tunis,Herbicide,435,Spring,Tomatoes,Sandy,Rainy
+Sousse,Ammonium Nitrate,756,Fall,Citrus,Arid,Very Hot
+Tozeur,Urea Fertilizer,520,Winter,Citrus,Clay,Hot
+Bizerte,Organic Compost,168,Spring,Olive Trees,Sandy-Loamy,Windy
+Monastir,Organic Compost,445,Fall,Citrus,Arid,Sunny
+Bizerte,Ammonium Nitrate,581,Winter,Vegetables,Arid,Very Hot
+Nabeul,Drip Irrigation Kit,310,Summer,Citrus,Sandy-Loamy,Windy
+Gabès,Organic Compost,305,Fall,Corn,Sandy,Mild
+Tunis,Herbicide,783,Spring,Corn,Sandy,Windy
+Tunis,Organic Compost,275,Spring,Tomatoes,Sandy-Loamy,Mild
+Tozeur,Organic Compost,102,Fall,Wheat,Loamy,Very Hot
+Gabès,Organic Compost,549,Fall,Dates,Sandy-Loamy,Hot
+Mahdia,Date Palm Fertilizer,555,Spring,Vegetables,Sandy-Loamy,Very Hot
+Sfax,Date Palm Fertilizer,413,Summer,Tomatoes,Sandy,Mild
+Sousse,Drip Irrigation Kit,329,Winter,Vegetables,Sandy,Windy
+Tunis,Urea Fertilizer,642,Summer,Wheat,Sandy-Loamy,Windy
+Kairouan,Organic Compost,763,Fall,Strawberries,Sandy-Loamy,Mild
+Tunis,Mulching Film,207,Summer,Citrus,Sandy-Loamy,Cold
+Bizerte,Urea Fertilizer,681,Spring,Citrus,Sandy,Hot
+Tunis,Drip Irrigation Kit,108,Fall,Dates,Sandy-Loamy,Rainy
+Tunis,NPK Fertilizer,776,Winter,Wheat,Sandy-Loamy,Sunny
+Sfax,Urea Fertilizer,177,Spring,Tomatoes,Peaty,Windy
+Sfax,Urea Fertilizer,785,Spring,Dates,Loamy,Sunny
+Monastir,Water-Soluble Fertilizer,770,Winter,Wheat,Clay,Rainy
+Mahdia,Hybrid Corn Seed,164,Winter,Olive Trees,Loamy,Very Hot
+Kairouan,Water-Soluble Fertilizer,258,Summer,Corn,Peaty,Sunny
+Tunis,Herbicide,575,Fall,Dates,Clay,Rainy
+Tunis,Date Palm Fertilizer,570,Winter,Dates,Sandy-Loamy,Mild
+Sousse,Date Palm Fertilizer,601,Winter,Tomatoes,Peaty,Cold
+Sfax,Hybrid Corn Seed,286,Fall,Vegetables,Sandy-Loamy,Windy
+Kairouan,Ammonium Nitrate,330,Winter,Olive Trees,Sandy,Rainy
+Tozeur,Ammonium Nitrate,408,Winter,Tomatoes,Arid,Sunny
+Monastir,Drip Irrigation Kit,250,Summer,Wheat,Peaty,Windy
+Mahdia,Hybrid Corn Seed,327,Spring,Wheat,Sandy,Cold
+Gabès,Urea Fertilizer,284,Spring,Wheat,Peaty,Mild
+Mahdia,Ammonium Nitrate,543,Spring,Strawberries,Peaty,Very Hot
+Bizerte,Organic Compost,53,Spring,Wheat,Sandy,Windy
+Tunis,Mulching Film,715,Winter,Vegetables,Clay,Very Hot
+Monastir,Urea Fertilizer,491,Fall,Olive Trees,Loamy,Rainy
+Bizerte,Herbicide,78,Fall,Citrus,Sandy-Loamy,Cold
+Kairouan,Organic Compost,158,Summer,Corn,Peaty,Sunny
+Gabès,Organic Compost,659,Summer,Vegetables,Sandy-Loamy,Cold
+Sfax,Hybrid Corn Seed,776,Winter,Vegetables,Arid,Cold
+Monastir,Drip Irrigation Kit,124,Fall,Strawberries,Sandy,Hot
+Monastir,Herbicide,195,Fall,Citrus,Sandy-Loamy,Cold
+Tunis,Ammonium Nitrate,177,Spring,Citrus,Sandy,Cold
+Nabeul,Hybrid Corn Seed,91,Winter,Corn,Sandy-Loamy,Windy
+Monastir,Ammonium Nitrate,405,Winter,Corn,Loamy,Sunny
+Sousse,Hybrid Corn Seed,90,Spring,Citrus,Loamy,Windy
+Gabès,Hybrid Corn Seed,83,Winter,Wheat,Loamy,Windy
+Gabès,Hybrid Corn Seed,66,Winter,Vegetables,Loamy,Rainy
+Sousse,Drip Irrigation Kit,726,Summer,Tomatoes,Loamy,Windy
+Tozeur,Hybrid Corn Seed,202,Fall,Corn,Loamy,Hot
+Sousse,NPK Fertilizer,427,Winter,Strawberries,Sandy,Hot
+Sousse,Mulching Film,637,Summer,Strawberries,Peaty,Very Hot
+Gabès,Ammonium Nitrate,648,Fall,Corn,Sandy-Loamy,Rainy
+Mahdia,Urea Fertilizer,678,Spring,Citrus,Loamy,Very Hot
+Gabès,Water-Soluble Fertilizer,391,Summer,Olive Trees,Sandy,Very Hot
+Nabeul,Herbicide,76,Summer,Tomatoes,Sandy,Mild
+Tunis,Date Palm Fertilizer,336,Fall,Tomatoes,Sandy,Sunny
+Bizerte,Drip Irrigation Kit,695,Spring,Corn,Peaty,Sunny
+Mahdia,Urea Fertilizer,780,Summer,Wheat,Sandy-Loamy,Windy
+Sfax,Organic Compost,217,Winter,Olive Trees,Peaty,Windy
+Bizerte,NPK Fertilizer,659,Winter,Tomatoes,Clay,Mild
+Tunis,Date Palm Fertilizer,317,Winter,Corn,Sandy,Windy
+Nabeul,Water-Soluble Fertilizer,798,Spring,Strawberries,Clay,Sunny
+Nabeul,Urea Fertilizer,504,Summer,Tomatoes,Arid,Very Hot
+Sfax,Date Palm Fertilizer,734,Winter,Dates,Loamy,Cold
+Mahdia,Urea Fertilizer,450,Spring,Olive Trees,Loamy,Hot
+Tozeur,NPK Fertilizer,525,Winter,Olive Trees,Peaty,Cold
+Sousse,Water-Soluble Fertilizer,751,Fall,Dates,Sandy-Loamy,Cold
+Mahdia,Organic Compost,683,Summer,Vegetables,Clay,Sunny
+Tozeur,Hybrid Corn Seed,607,Summer,Strawberries,Sandy-Loamy,Cold
+Nabeul,Ammonium Nitrate,625,Spring,Dates,Peaty,Mild
+Gabès,Organic Compost,179,Spring,Citrus,Loamy,Rainy
+Tunis,Hybrid Corn Seed,412,Summer,Citrus,Sandy-Loamy,Windy
+Sfax,Drip Irrigation Kit,754,Winter,Corn,Sandy-Loamy,Rainy
+Tunis,Mulching Film,742,Winter,Olive Trees,Loamy,Very Hot
+Kairouan,Herbicide,341,Fall,Vegetables,Clay,Hot
+Kairouan,Herbicide,420,Winter,Vegetables,Loamy,Windy
+Mahdia,Ammonium Nitrate,78,Spring,Tomatoes,Sandy-Loamy,Cold
+Nabeul,Water-Soluble Fertilizer,198,Spring,Tomatoes,Clay,Hot
+Nabeul,NPK Fertilizer,345,Winter,Dates,Clay,Windy
+Sousse,Water-Soluble Fertilizer,60,Spring,Vegetables,Loamy,Mild
+Sousse,NPK Fertilizer,561,Summer,Dates,Sandy-Loamy,Mild
+Sousse,Water-Soluble Fertilizer,725,Summer,Strawberries,Peaty,Mild
+Gabès,Mulching Film,162,Winter,Dates,Sandy-Loamy,Mild
+Bizerte,Drip Irrigation Kit,236,Summer,Tomatoes,Sandy,Cold
+Monastir,Drip Irrigation Kit,793,Summer,Olive Trees,Arid,Rainy
+Bizerte,Hybrid Corn Seed,276,Fall,Dates,Peaty,Windy
+Tunis,Date Palm Fertilizer,359,Fall,Wheat,Clay,Cold
+Bizerte,Drip Irrigation Kit,147,Summer,Olive Trees,Peaty,Mild
+Gabès,Drip Irrigation Kit,104,Winter,Vegetables,Clay,Very Hot
+Tunis,Organic Compost,672,Fall,Vegetables,Clay,Rainy
+Bizerte,Organic Compost,713,Spring,Dates,Peaty,Very Hot
+Gabès,Hybrid Corn Seed,455,Spring,Olive Trees,Clay,Hot
+Monastir,Date Palm Fertilizer,118,Spring,Tomatoes,Clay,Very Hot
+Bizerte,Ammonium Nitrate,361,Winter,Tomatoes,Sandy,Hot
+Gabès,Organic Compost,338,Summer,Citrus,Sandy-Loamy,Hot
+Sousse,Ammonium Nitrate,597,Spring,Vegetables,Sandy-Loamy,Mild
+Nabeul,Urea Fertilizer,197,Winter,Corn,Arid,Hot
+Sousse,Organic Compost,516,Fall,Citrus,Arid,Sunny
+Nabeul,Mulching Film,788,Summer,Tomatoes,Sandy,Windy
+Sfax,Date Palm Fertilizer,293,Fall,Olive Trees,Arid,Windy
+Sfax,Hybrid Corn Seed,540,Winter,Strawberries,Peaty,Mild
+Sfax,Urea Fertilizer,556,Spring,Tomatoes,Loamy,Sunny
+Monastir,Date Palm Fertilizer,414,Spring,Olive Trees,Loamy,Very Hot
+Sousse,Mulching Film,531,Winter,Citrus,Loamy,Cold
+Nabeul,Date Palm Fertilizer,250,Spring,Vegetables,Sandy,Very Hot
+Gabès,Mulching Film,203,Summer,Tomatoes,Sandy,Cold
+Tunis,Mulching Film,499,Winter,Dates,Clay,Hot
+Gabès,Ammonium Nitrate,550,Fall,Olive Trees,Loamy,Rainy
+Tunis,Water-Soluble Fertilizer,122,Winter,Vegetables,Peaty,Cold
+Kairouan,Urea Fertilizer,762,Summer,Strawberries,Arid,Rainy
+Gabès,Date Palm Fertilizer,345,Summer,Strawberries,Peaty,Windy
+Bizerte,NPK Fertilizer,66,Winter,Corn,Arid,Rainy
+Bizerte,Urea Fertilizer,690,Winter,Olive Trees,Loamy,Windy
+Mahdia,Water-Soluble Fertilizer,266,Spring,Citrus,Loamy,Sunny
+Sousse,Urea Fertilizer,110,Summer,Corn,Loamy,Sunny
+Tunis,Drip Irrigation Kit,665,Winter,Corn,Sandy,Mild
+Tunis,NPK Fertilizer,91,Winter,Wheat,Arid,Mild
+Sousse,Water-Soluble Fertilizer,74,Summer,Tomatoes,Sandy,Hot
+Monastir,Ammonium Nitrate,88,Winter,Olive Trees,Sandy,Cold
+Mahdia,Date Palm Fertilizer,180,Spring,Corn,Sandy-Loamy,Hot
+Monastir,Herbicide,547,Summer,Wheat,Peaty,Windy
+Monastir,Water-Soluble Fertilizer,278,Spring,Citrus,Peaty,Hot
+Monastir,Hybrid Corn Seed,157,Spring,Vegetables,Clay,Rainy
+Sousse,Date Palm Fertilizer,221,Spring,Dates,Sandy,Windy
+Monastir,Water-Soluble Fertilizer,484,Spring,Dates,Arid,Mild
+Bizerte,Drip Irrigation Kit,527,Summer,Olive Trees,Sandy-Loamy,Sunny
+Sfax,Herbicide,151,Spring,Corn,Sandy-Loamy,Mild
+Kairouan,Drip Irrigation Kit,573,Spring,Dates,Peaty,Cold
+Tunis,Herbicide,324,Winter,Tomatoes,Sandy,Windy
+Tunis,Hybrid Corn Seed,662,Summer,Dates,Clay,Windy
+Kairouan,Date Palm Fertilizer,93,Summer,Dates,Sandy,Rainy
+Sousse,Ammonium Nitrate,66,Fall,Dates,Loamy,Cold
+Gabès,Drip Irrigation Kit,379,Summer,Strawberries,Sandy,Sunny
+Sousse,Drip Irrigation Kit,618,Summer,Wheat,Loamy,Very Hot
+Tunis,Mulching Film,546,Fall,Corn,Loamy,Windy
+Tunis,Herbicide,61,Summer,Tomatoes,Clay,Windy
+Kairouan,Organic Compost,367,Summer,Corn,Arid,Rainy
+Monastir,Date Palm Fertilizer,641,Summer,Strawberries,Peaty,Hot
+Sousse,Herbicide,265,Summer,Olive Trees,Sandy,Sunny
+Nabeul,Mulching Film,388,Fall,Olive Trees,Loamy,Mild
+Kairouan,Urea Fertilizer,710,Summer,Olive Trees,Sandy,Cold
+Bizerte,Herbicide,130,Summer,Citrus,Arid,Windy
+Tunis,Ammonium Nitrate,776,Fall,Dates,Peaty,Windy
+Kairouan,Date Palm Fertilizer,534,Winter,Citrus,Arid,Mild
+Sousse,Mulching Film,423,Spring,Wheat,Peaty,Sunny
+Tunis,Urea Fertilizer,759,Winter,Olive Trees,Sandy-Loamy,Hot
+Gabès,NPK Fertilizer,249,Fall,Strawberries,Peaty,Windy
+Kairouan,Mulching Film,586,Spring,Tomatoes,Clay,Sunny
+Mahdia,NPK Fertilizer,515,Fall,Corn,Arid,Mild
+Tunis,Date Palm Fertilizer,138,Fall,Dates,Loamy,Rainy
+Sousse,Drip Irrigation Kit,317,Summer,Vegetables,Sandy-Loamy,Hot
+Sfax,Mulching Film,704,Spring,Tomatoes,Clay,Cold
+Nabeul,Hybrid Corn Seed,620,Summer,Dates,Sandy,Windy
+Tozeur,NPK Fertilizer,538,Spring,Citrus,Arid,Sunny
+Monastir,Ammonium Nitrate,587,Fall,Citrus,Loamy,Rainy
+Tozeur,Hybrid Corn Seed,96,Fall,Tomatoes,Peaty,Cold
+Sousse,Water-Soluble Fertilizer,337,Winter,Citrus,Loamy,Very Hot
+Bizerte,Water-Soluble Fertilizer,65,Spring,Olive Trees,Sandy,Sunny
+Bizerte,Urea Fertilizer,760,Summer,Wheat,Sandy-Loamy,Sunny
+Sfax,Drip Irrigation Kit,450,Winter,Corn,Sandy-Loamy,Cold
+Monastir,Date Palm Fertilizer,135,Winter,Wheat,Arid,Rainy
+Mahdia,Mulching Film,299,Winter,Dates,Sandy-Loamy,Very Hot
+Sfax,Organic Compost,440,Summer,Corn,Arid,Mild
+Tozeur,Ammonium Nitrate,384,Winter,Strawberries,Arid,Rainy
+Sfax,NPK Fertilizer,678,Summer,Corn,Arid,Hot
+Tozeur,Date Palm Fertilizer,568,Winter,Wheat,Peaty,Windy
+Tunis,Hybrid Corn Seed,186,Summer,Tomatoes,Clay,Cold
+Bizerte,Water-Soluble Fertilizer,737,Fall,Corn,Arid,Mild
+Tunis,Ammonium Nitrate,547,Fall,Strawberries,Arid,Very Hot
+Nabeul,Organic Compost,776,Fall,Strawberries,Clay,Cold
+Monastir,Mulching Film,526,Fall,Strawberries,Loamy,Cold
+Mahdia,Urea Fertilizer,643,Fall,Wheat,Arid,Rainy
+Tozeur,Organic Compost,272,Winter,Corn,Peaty,Windy
+Mahdia,Ammonium Nitrate,421,Winter,Vegetables,Sandy-Loamy,Hot
+Tozeur,Organic Compost,451,Winter,Tomatoes,Sandy-Loamy,Sunny
+Sousse,Ammonium Nitrate,492,Summer,Olive Trees,Sandy,Sunny
+Sfax,Ammonium Nitrate,539,Summer,Corn,Sandy,Cold
+Nabeul,Herbicide,664,Summer,Strawberries,Sandy-Loamy,Windy
+Bizerte,NPK Fertilizer,322,Summer,Vegetables,Sandy-Loamy,Very Hot
+Tozeur,Water-Soluble Fertilizer,575,Fall,Olive Trees,Peaty,Very Hot
+Mahdia,Herbicide,208,Fall,Olive Trees,Clay,Mild
+Nabeul,Mulching Film,201,Fall,Dates,Sandy,Rainy
+Gabès,Herbicide,669,Spring,Corn,Clay,Windy
+Gabès,Drip Irrigation Kit,237,Winter,Wheat,Peaty,Windy
+Tunis,Drip Irrigation Kit,147,Summer,Corn,Sandy-Loamy,Rainy
+Bizerte,Water-Soluble Fertilizer,180,Summer,Vegetables,Arid,Very Hot
+Sousse,Organic Compost,220,Fall,Olive Trees,Clay,Very Hot
+Mahdia,NPK Fertilizer,232,Summer,Corn,Sandy-Loamy,Very Hot
+Sfax,Water-Soluble Fertilizer,413,Summer,Wheat,Sandy-Loamy,Cold
+Sfax,Ammonium Nitrate,88,Winter,Dates,Loamy,Windy
+Mahdia,Hybrid Corn Seed,576,Fall,Corn,Clay,Sunny
+Monastir,NPK Fertilizer,546,Winter,Tomatoes,Arid,Rainy
+Sousse,NPK Fertilizer,565,Spring,Dates,Clay,Very Hot
+Nabeul,Ammonium Nitrate,398,Spring,Wheat,Sandy-Loamy,Mild
+Tozeur,Ammonium Nitrate,446,Spring,Vegetables,Arid,Very Hot
+Monastir,Urea Fertilizer,771,Fall,Olive Trees,Peaty,Very Hot
+Tozeur,Water-Soluble Fertilizer,210,Summer,Corn,Loamy,Hot
+Tozeur,Ammonium Nitrate,65,Fall,Wheat,Sandy-Loamy,Cold
+Monastir,Drip Irrigation Kit,542,Fall,Dates,Sandy,Rainy
+Tunis,Mulching Film,475,Summer,Tomatoes,Sandy,Hot
+Gabès,Hybrid Corn Seed,157,Winter,Wheat,Loamy,Hot
+Tozeur,Water-Soluble Fertilizer,499,Spring,Citrus,Peaty,Mild
+Monastir,Date Palm Fertilizer,360,Winter,Strawberries,Sandy-Loamy,Windy
+Monastir,Drip Irrigation Kit,788,Spring,Tomatoes,Clay,Mild
+Kairouan,Organic Compost,219,Fall,Dates,Loamy,Windy
+Tunis,Ammonium Nitrate,595,Spring,Vegetables,Peaty,Windy
+Bizerte,Date Palm Fertilizer,463,Fall,Olive Trees,Clay,Rainy
+Kairouan,Ammonium Nitrate,300,Winter,Dates,Sandy,Very Hot
+Kairouan,NPK Fertilizer,190,Fall,Strawberries,Sandy,Rainy
+Mahdia,Drip Irrigation Kit,323,Winter,Vegetables,Clay,Cold
+Gabès,NPK Fertilizer,465,Summer,Corn,Loamy,Windy
+Monastir,Urea Fertilizer,657,Summer,Wheat,Sandy,Hot
+Gabès,NPK Fertilizer,788,Summer,Citrus,Sandy-Loamy,Very Hot
+Sousse,Urea Fertilizer,88,Fall,Tomatoes,Arid,Sunny
+Mahdia,Urea Fertilizer,78,Summer,Tomatoes,Clay,Cold
+Bizerte,Date Palm Fertilizer,526,Spring,Wheat,Clay,Rainy
+Gabès,Ammonium Nitrate,367,Winter,Citrus,Sandy,Mild
+Sfax,Organic Compost,294,Winter,Wheat,Loamy,Cold
+Tozeur,NPK Fertilizer,797,Spring,Corn,Sandy-Loamy,Cold
+Sousse,Drip Irrigation Kit,746,Fall,Strawberries,Loamy,Very Hot
+Tunis,Urea Fertilizer,321,Fall,Vegetables,Peaty,Cold
+Bizerte,Ammonium Nitrate,489,Winter,Dates,Peaty,Cold
+Sousse,Hybrid Corn Seed,797,Summer,Tomatoes,Arid,Sunny
+Tozeur,Water-Soluble Fertilizer,288,Fall,Corn,Sandy,Mild
+Mahdia,Date Palm Fertilizer,426,Fall,Vegetables,Sandy,Mild
+Tozeur,Organic Compost,315,Spring,Corn,Sandy,Mild
+Kairouan,Herbicide,408,Spring,Citrus,Arid,Windy
+Tozeur,Date Palm Fertilizer,389,Summer,Tomatoes,Peaty,Hot
+Kairouan,Hybrid Corn Seed,438,Fall,Dates,Loamy,Mild
+Mahdia,Water-Soluble Fertilizer,626,Fall,Wheat,Arid,Cold
+Nabeul,Hybrid Corn Seed,738,Spring,Wheat,Arid,Cold
+Kairouan,NPK Fertilizer,52,Fall,Vegetables,Loamy,Mild
+Tunis,Urea Fertilizer,478,Winter,Dates,Sandy,Very Hot
+Tozeur,Organic Compost,191,Spring,Strawberries,Sandy-Loamy,Mild
+Tozeur,Mulching Film,425,Summer,Olive Trees,Loamy,Cold
+Tunis,Urea Fertilizer,719,Spring,Citrus,Peaty,Windy
+Sfax,Mulching Film,373,Fall,Vegetables,Clay,Rainy
+Monastir,Water-Soluble Fertilizer,195,Summer,Olive Trees,Clay,Rainy
+Nabeul,Ammonium Nitrate,342,Spring,Corn,Arid,Mild
+Bizerte,Herbicide,714,Winter,Citrus,Clay,Sunny
+Kairouan,Drip Irrigation Kit,481,Winter,Corn,Sandy-Loamy,Mild
+Tunis,Urea Fertilizer,754,Spring,Strawberries,Sandy,Very Hot
+Mahdia,Organic Compost,634,Winter,Dates,Peaty,Mild
+Kairouan,Hybrid Corn Seed,448,Winter,Tomatoes,Sandy-Loamy,Rainy
+Monastir,Organic Compost,393,Winter,Citrus,Peaty,Cold
+Mahdia,Water-Soluble Fertilizer,189,Summer,Olive Trees,Peaty,Mild
+Sousse,Mulching Film,236,Winter,Strawberries,Sandy,Cold
+Tozeur,Hybrid Corn Seed,110,Winter,Tomatoes,Arid,Cold
+Sousse,Drip Irrigation Kit,429,Winter,Wheat,Clay,Sunny
+Kairouan,Drip Irrigation Kit,759,Summer,Olive Trees,Sandy,Cold
+Monastir,Urea Fertilizer,489,Spring,Vegetables,Sandy-Loamy,Rainy
+Nabeul,Water-Soluble Fertilizer,368,Fall,Wheat,Arid,Windy
+Kairouan,Ammonium Nitrate,351,Winter,Strawberries,Sandy-Loamy,Windy
+Tunis,Water-Soluble Fertilizer,393,Spring,Wheat,Arid,Hot
+Gabès,Mulching Film,60,Winter,Vegetables,Sandy-Loamy,Very Hot
+Kairouan,Organic Compost,111,Summer,Citrus,Sandy,Mild
+Tozeur,Drip Irrigation Kit,275,Spring,Wheat,Arid,Very Hot
+Tozeur,Organic Compost,202,Summer,Dates,Arid,Rainy
+Kairouan,Organic Compost,760,Winter,Olive Trees,Peaty,Cold
+Mahdia,Organic Compost,613,Winter,Tomatoes,Peaty,Windy
+Gabès,Drip Irrigation Kit,620,Summer,Wheat,Loamy,Very Hot
+Tunis,Date Palm Fertilizer,633,Fall,Olive Trees,Sandy-Loamy,Rainy
+Kairouan,NPK Fertilizer,709,Summer,Corn,Peaty,Windy
+Mahdia,Mulching Film,624,Winter,Olive Trees,Loamy,Cold
+Tozeur,Date Palm Fertilizer,359,Summer,Tomatoes,Peaty,Very Hot
+Tozeur,Mulching Film,292,Fall,Olive Trees,Sandy-Loamy,Windy
+Monastir,Hybrid Corn Seed,542,Summer,Vegetables,Arid,Mild
+Kairouan,Water-Soluble Fertilizer,415,Fall,Strawberries,Clay,Mild
+Gabès,Water-Soluble Fertilizer,379,Fall,Tomatoes,Sandy-Loamy,Hot
+Sfax,Herbicide,156,Summer,Strawberries,Sandy,Hot
+Gabès,Water-Soluble Fertilizer,275,Summer,Citrus,Peaty,Windy
+Tozeur,Drip Irrigation Kit,267,Spring,Strawberries,Peaty,Rainy
+Tozeur,Ammonium Nitrate,555,Winter,Corn,Arid,Mild
+Sousse,Urea Fertilizer,308,Fall,Vegetables,Sandy,Rainy
+Tozeur,Herbicide,566,Spring,Citrus,Arid,Rainy
+Tunis,Urea Fertilizer,103,Summer,Olive Trees,Sandy,Windy
+Bizerte,Mulching Film,96,Winter,Tomatoes,Clay,Rainy
+Kairouan,Urea Fertilizer,776,Spring,Corn,Peaty,Mild
+Gabès,Urea Fertilizer,738,Fall,Vegetables,Peaty,Cold
+Bizerte,Herbicide,570,Spring,Citrus,Clay,Hot
+Mahdia,Hybrid Corn Seed,148,Fall,Citrus,Loamy,Cold
+Sfax,Organic Compost,69,Summer,Corn,Arid,Rainy
+Tunis,Water-Soluble Fertilizer,622,Winter,Dates,Clay,Cold
+Gabès,Water-Soluble Fertilizer,539,Winter,Olive Trees,Arid,Mild
+Bizerte,Drip Irrigation Kit,468,Winter,Corn,Sandy-Loamy,Mild
+Sfax,Herbicide,739,Summer,Citrus,Peaty,Rainy
+Sousse,Drip Irrigation Kit,111,Fall,Wheat,Arid,Windy
+Tunis,Ammonium Nitrate,194,Summer,Vegetables,Sandy,Cold
+Tunis,Ammonium Nitrate,265,Winter,Corn,Arid,Windy
+Sousse,Drip Irrigation Kit,52,Summer,Dates,Sandy-Loamy,Windy
+Kairouan,Herbicide,209,Summer,Citrus,Peaty,Sunny
+Sousse,Drip Irrigation Kit,788,Summer,Olive Trees,Clay,Rainy
+Tunis,Water-Soluble Fertilizer,169,Fall,Strawberries,Sandy-Loamy,Hot
+Tunis,Date Palm Fertilizer,138,Spring,Citrus,Peaty,Mild
+Bizerte,NPK Fertilizer,378,Spring,Olive Trees,Arid,Mild
+Tozeur,Urea Fertilizer,629,Summer,Corn,Loamy,Rainy
+Sfax,NPK Fertilizer,406,Spring,Olive Trees,Loamy,Very Hot
+Sousse,Herbicide,659,Spring,Tomatoes,Sandy,Very Hot
+Sfax,NPK Fertilizer,316,Summer,Tomatoes,Peaty,Very Hot
+Sousse,Ammonium Nitrate,666,Summer,Tomatoes,Loamy,Hot
+Mahdia,Mulching Film,372,Winter,Dates,Clay,Mild
+Tunis,Urea Fertilizer,684,Spring,Dates,Peaty,Rainy
+Tozeur,Organic Compost,590,Fall,Wheat,Clay,Mild
+Bizerte,Herbicide,698,Summer,Dates,Clay,Windy
+Tozeur,Urea Fertilizer,244,Winter,Strawberries,Loamy,Cold
+Tozeur,NPK Fertilizer,787,Fall,Corn,Peaty,Cold
+Tozeur,Ammonium Nitrate,381,Spring,Citrus,Arid,Mild
+Sfax,Hybrid Corn Seed,219,Winter,Citrus,Sandy-Loamy,Sunny
+Sousse,Date Palm Fertilizer,570,Summer,Wheat,Loamy,Hot
+Nabeul,Organic Compost,512,Fall,Dates,Loamy,Very Hot
+Mahdia,Date Palm Fertilizer,89,Summer,Strawberries,Arid,Hot
+Gabès,Urea Fertilizer,586,Spring,Olive Trees,Peaty,Hot
+Tozeur,Ammonium Nitrate,310,Fall,Wheat,Peaty,Windy
+Kairouan,Ammonium Nitrate,444,Spring,Strawberries,Clay,Hot
+Sfax,NPK Fertilizer,275,Spring,Olive Trees,Arid,Cold
+Bizerte,Water-Soluble Fertilizer,173,Winter,Strawberries,Arid,Windy
+Gabès,NPK Fertilizer,87,Summer,Olive Trees,Peaty,Rainy
+Nabeul,Water-Soluble Fertilizer,377,Fall,Vegetables,Clay,Hot
+Kairouan,Water-Soluble Fertilizer,300,Spring,Strawberries,Loamy,Hot
+Nabeul,Organic Compost,225,Spring,Citrus,Sandy,Rainy
+Gabès,NPK Fertilizer,651,Fall,Tomatoes,Sandy-Loamy,Hot
+Tozeur,Hybrid Corn Seed,503,Spring,Dates,Loamy,Rainy
+Kairouan,Drip Irrigation Kit,86,Winter,Olive Trees,Peaty,Windy
+Nabeul,Drip Irrigation Kit,365,Winter,Vegetables,Sandy-Loamy,Cold
+Bizerte,NPK Fertilizer,737,Winter,Strawberries,Sandy,Rainy
+Sousse,NPK Fertilizer,642,Winter,Citrus,Sandy,Sunny
+Tunis,Date Palm Fertilizer,163,Spring,Tomatoes,Clay,Rainy
+Sousse,Organic Compost,89,Fall,Olive Trees,Sandy-Loamy,Hot
+Gabès,NPK Fertilizer,350,Fall,Strawberries,Clay,Very Hot
+Sfax,Date Palm Fertilizer,273,Fall,Strawberries,Loamy,Very Hot
+Tunis,Water-Soluble Fertilizer,367,Fall,Olive Trees,Arid,Windy
+Mahdia,Ammonium Nitrate,398,Summer,Wheat,Arid,Mild
+Bizerte,Ammonium Nitrate,164,Fall,Wheat,Arid,Windy
+Mahdia,Water-Soluble Fertilizer,747,Summer,Citrus,Sandy-Loamy,Mild
+Kairouan,Herbicide,372,Summer,Tomatoes,Arid,Very Hot
+Tunis,Date Palm Fertilizer,617,Winter,Olive Trees,Loamy,Very Hot
+Mahdia,Date Palm Fertilizer,89,Summer,Citrus,Clay,Rainy
+Mahdia,Water-Soluble Fertilizer,89,Spring,Citrus,Sandy-Loamy,Cold
+Nabeul,Hybrid Corn Seed,798,Summer,Corn,Clay,Sunny
+Sousse,Mulching Film,338,Winter,Strawberries,Sandy-Loamy,Windy

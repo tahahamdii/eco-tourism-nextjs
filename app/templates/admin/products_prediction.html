@@ -1,0 +1,134 @@
+{% extends "admin/admin_home.html" %}
+
+{% block content %}
+
+    <head>
+        <title>Agro Smart</title>
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+<style>
+
+
+        .form-container {
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            max-width: 500px;
+            width: 100%;
+            display: flex;
+            align-items: center;
+        }
+        h1 {
+            text-align: center;
+            color: #4CAF50;
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+        label {
+            display: block;
+            font-weight: bold;
+            margin-bottom: 8px;
+            color: #333;
+        }
+        select, button {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 15px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            box-sizing: border-box;
+            font-size: 14px;
+        }
+        button {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        .result-container {
+            margin-top: 20px;
+            text-align: center;
+            font-size: 18px;
+            color: #333;
+        }
+        .result-container h2 {
+            color: #4CAF50;
+        }
+    </style>
+    </head>
+
+
+<body>
+
+    
+
+
+<div class="form-container">
+    <h1>Predict Agricultural Product Sales Volume</h1>
+
+    <form method="post">
+        {% csrf_token %}
+
+        <label for="Location">Location:</label>
+        <select name="Location" required>
+            {% for loc in locations %}
+                <option value="{{ loc }}">{{ loc }}</option>
+            {% endfor %}
+        </select>
+
+        <label for="Product">Product:</label>
+        <select name="Product" required>
+            {% for prod in products %}
+                <option value="{{ prod }}">{{ prod }}</option>
+            {% endfor %}
+        </select>
+
+        <label for="Season">Season:</label>
+        <select name="Season" required>
+            {% for season in seasons %}
+                <option value="{{ season }}">{{ season }}</option>
+            {% endfor %}
+        </select>
+
+        <label for="CropType">Crop Type:</label>
+        <select name="CropType" required>
+            {% for crop in crop_types %}
+                <option value="{{ crop }}">{{ crop }}</option>
+            {% endfor %}
+        </select>
+
+        <label for="SoilType">Soil Type:</label>
+        <select name="SoilType" required>
+            {% for soil in soil_types %}
+                <option value="{{ soil }}">{{ soil }}</option>
+            {% endfor %}
+        </select>
+
+        <label for="WeatherCondition">Weather Condition:</label>
+        <select name="WeatherCondition" required>
+            {% for weather in weather_conditions %}
+                <option value="{{ weather }}">{{ weather }}</option>
+            {% endfor %}
+        </select>
+
+        <button type="submit">Predict</button>
+    </form>
+
+    {% if prediction is not None %}
+        <div class="result-container">
+            <h2>Predicted Sales Volume: {{ prediction }}</h2>
+        </div>
+    {% endif %}
+</div>
+
+</body>
+
+{% endblock %}

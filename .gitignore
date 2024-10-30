@@ -1,0 +1,70 @@
+# Python cache and environment files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+
+# Virtual environment
+env/
+venv/
+.venv/
+
+# Django specific
+db.sqlite3
+*.sqlite3
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Django secret files
+.env
+*.env
+
+# Local settings
+settings_local.py
+
+# Migrations
+*/migrations/*.py
+!*/migrations/__init__.py
+
+# Static files (can be rebuilt)
+staticfiles/
+static/
+media/
+
+# Ignore IDE-specific files and folders
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Compiled CSS/JS (if using SASS, LESS, or other preprocessors)
+*.sass-cache/
+*.scss-cache/
+*.css.map
+*.js.map
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# Joblib models and any large binary files
+*.joblib
+*.pkl
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
+*.old
+*.orig

@@ -1,0 +1,58 @@
+{% extends "visitor/visitor_home.html" %}
+
+
+{% block content %}
+{% load static %}
+<!-- predict_fertility.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Soil Fertility Prediction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 50px;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            background-color: #f9f9f9;
+        }
+        input[type="submit"] {
+            margin-top: 15px;
+        }
+        .result {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #e0ffe0;
+            border: 1px solid #0f0;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Predict Soil Fertility</h2>
+        <form method="post">
+            {% csrf_token %}
+            {{ form.as_p }}
+            <input type="submit" value="Predict">
+        </form>
+
+        {% if prediction is not None %}
+        <div class="result">
+            <h3>Prediction Result</h3>
+            <p><strong>Predicted Soil Fertility:</strong> {{ prediction|floatformat:2 }} / 100</p>
+        </div>
+        {% endif %}
+    </div>
+</body>
+</html>
+
+
+{% endblock %}
